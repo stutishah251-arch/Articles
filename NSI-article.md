@@ -124,21 +124,29 @@ To maintain a secure network environment, organizations must implement effective
 unauthorized access, data breaches, and malware infections. Prevention focuses on stopping attacks before they occur, while protection ensures that systems and data
 remain secure even if an attack is attempted.
 
-- Use firewalls and intrusion detection/prevention systems to monitor and block unauthorized network access.
+1. Have Firewalls in place:
+Ensure the installation and configuration of firewalls so that they can control unauthorized users from accessing your system and filter out destructive/undesirable traffic on your network.
 
-- Install and regularly update antivirus and anti-malware software to detect and remove malicious programs.
+2. Install Anti-virus/Anti-malware protection:
+Use UP-TO-DATE operating systems on your computer/network that provide virus & malware detection/removal, including listing viruses/malware when detecting them.
 
-- Use strong passwords and multi-factor authentication (MFA) to prevent unauthorized user access.
+3. Enable Strong Authentication:
+Make sure to create/pass some additional security for the end-user when writing a strong pass (i.e., require additional info to get into your account).
 
-- Encrypt sensitive data during storage and transmission to protect it from interception.
+4. Keep Software Updated:
+Updating your operating systems, applications and/or security devices regularly, to close known vulnerabilities on those products.
 
-- Regularly update software and security patches to fix vulnerabilities in the system.
+5. Encrypt Data:
+Encrypt all sensitive information stored or transmitted electronically to prevent an attacker from reading/understanding that information.
 
-- Implement access control policies so that users only access the resources they need.
+6. Monitor Network:
+Constantly monitor your company's network activity by installing IDS or IPS on your network, to quickly identify suspicious activity.
 
-- Perform regular security audits and network monitoring to detect suspicious activities early.
+7.Access Control:
+Only grant authorized access to sensitive resources to those who require them.
 
-- Train employees about cybersecurity awareness to avoid phishing and social engineering attacks.
+8. Conduct Regular Security Audits:
+Regular (at least annual) vulnerability scanning and security assessment of the network to identify and correct security weaknesses/vulnerabilities in your network.
 
 ---
 
