@@ -85,7 +85,7 @@ a history of all events and activities within the network thereby helping to ide
   networks for vulnerabilities that an attacker could use to attack them. Security audits determine how effective exisiting security controls are used and suggest areas for
   enhancement. This information helps organizations prepare for ever-changing cyber threats.
 
-  ---
+---
 
 ## Impact of Weak or Compromised Network Security Infrastructure
 
