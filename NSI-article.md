@@ -87,75 +87,75 @@ a history of all events and activities within the network thereby helping to ide
 
   ---
 
-  ## Impact of Weak or Compromised Network Security Infrastructure
+## Impact of Weak or Compromised Network Security Infrastructure
 
-  A week or compromised network security system can lead to a variety of negative impacts for individuals, businesses, and even national governments. Cyber-attacks and
-  security breaches can disrupt an organization's day-to-day operations, result is significant financial losses, and undermine trust in the organization. Below are examples
-  of some of the major ways a network secutity system can negatively impact individuals, businesses, and governments.
+A week or compromised network security system can lead to a variety of negative impacts for individuals, businesses, and even national governments. Cyber-attacks and
+security breaches can disrupt an organization's day-to-day operations, result is significant financial losses, and undermine trust in the organization. Below are examples
+of some of the major ways a network secutity system can negatively impact individuals, businesses, and governments.
 
-  - Data Breaches and Loss of Confidential Information:
-    One of the most serious impacts of poor network security is the loss of sensitive data. Attackers may gain unauthorized access to confidential information such as personal
-    details, financial records, passwords, or company secrets. For businesses, this could include customer data, intellectual property, and strategic plans. Once this information
-    is stolen, it can be misused, sold on the dark web, or used for identity theft and fraud.
+- Data Breaches and Loss of Confidential Information:
+  One of the most serious impacts of poor network security is the loss of sensitive data. Attackers may gain unauthorized access to confidential information such as personal
+  details, financial records, passwords, or company secrets. For businesses, this could include customer data, intellectual property, and strategic plans. Once this
+  information is stolen, it can be misused, sold on the dark web, or used for identity theft and fraud.
 
-  - Financial Losses:
-    Cybersecurity incidents often lead to significant financial losses. Organizations may lose money due to stolen funds, business disruption, recovery costs, and legal penalties.
-    Companies may also need to invest heavily in repairing systems, strengthening security measures, and compensating affected customers. In some cases, ransomware attacks force
-    organizations to pay large amounts of money to regain access to their systems.
+- Financial Losses:
+   Cybersecurity incidents often lead to significant financial losses. Organizations may lose money due to stolen funds, business disruption, recovery costs, and legal
+  penalties. Companies may also need to invest heavily in repairing systems, strengthening security measures, and compensating affected customers. In some cases, ransomware
+  attacks force organizations to pay large amounts of money to regain access to their systems.
 
-  - Spread of Malware and System Damage:
-    Weak network security can allow malware such as viruses, worms, or ransomware to spread quickly across connected devices. This can corrupt files, damage software, and make
-    systems unusable. In severe cases, entire networks may need to be shut down and rebuilt, leading to major operational challenges.
+- Spread of Malware and System Damage:
+  Weak network security can allow malware such as viruses, worms, or ransomware to spread quickly across connected devices. This can corrupt files, damage software, and make
+  systems unusable. In severe cases, entire networks may need to be shut down and rebuilt, leading to major operational challenges.
 
-  - Spread of Malware and System Damage:
-    Weak network security can allow malware such as viruses, worms, or ransomware to spread quickly across connected devices. This can corrupt files, damage software, and make
-    systems unusable. In severe cases, entire networks may need to be shut down and rebuilt, leading to major operational challenges.
+ - Spread of Malware and System Damage:
+   Weak network security can allow malware such as viruses, worms, or ransomware to spread quickly across connected devices. This can corrupt files, damage software, and
+   make systems unusable. In severe cases, entire networks may need to be shut down and rebuilt, leading to major operational challenges.
 
-  - Business and Operational Disruption:
-    Network attacks can disrupt normal business operations. If systems are infected with malware or targeted by denial-of-service attacks, employees may not be able to access
-    important resources or perform their tasks. This downtime can slow down production, delay services, and reduce overall productivity. For industries such as banking,
-    healthcare, or transportation, even a short disruption can cause major problems.
+- Business and Operational Disruption:
+  Network attacks can disrupt normal business operations. If systems are infected with malware or targeted by denial-of-service attacks, employees may not be able to access
+  important resources or perform their tasks. This downtime can slow down production, delay services, and reduce overall productivity. For industries such as banking,
+  healthcare, or transportation, even a short disruption can cause major problems.
 
-     ---
+ ---
 
-  ## Prevention and Protection
+## Prevention and Protection
 
-  To maintain a secure network environment, organizations must implement effective prevention and protection measures. These measures help reduce the risk of cyberattacks,
-  unauthorized access, data breaches, and malware infections. Prevention focuses on stopping attacks before they occur, while protection ensures that systems and data
-  remain secure even if an attack is attempted.
+To maintain a secure network environment, organizations must implement effective prevention and protection measures. These measures help reduce the risk of cyberattacks,
+unauthorized access, data breaches, and malware infections. Prevention focuses on stopping attacks before they occur, while protection ensures that systems and data
+remain secure even if an attack is attempted.
 
-  -Use firewalls and intrusion detection/prevention systems to monitor and block unauthorized network access.
-  -Install and regularly update antivirus and anti-malware software to detect and remove malicious programs.
-  -Use strong passwords and multi-factor authentication (MFA) to prevent unauthorized user access.
-  -Encrypt sensitive data during storage and transmission to protect it from interception.
-  -Regularly update software and security patches to fix vulnerabilities in the system.
-  -Implement access control policies so that users only access the resources they need.
-  -Perform regular security audits and network monitoring to detect suspicious activities early.
-  -Train employees about cybersecurity awareness to avoid phishing and social engineering attacks.
+-Use firewalls and intrusion detection/prevention systems to monitor and block unauthorized network access.
+-Install and regularly update antivirus and anti-malware software to detect and remove malicious programs.
+-Use strong passwords and multi-factor authentication (MFA) to prevent unauthorized user access.
+-Encrypt sensitive data during storage and transmission to protect it from interception.
+-Regularly update software and security patches to fix vulnerabilities in the system.
+-Implement access control policies so that users only access the resources they need.
+-Perform regular security audits and network monitoring to detect suspicious activities early.
+-Train employees about cybersecurity awareness to avoid phishing and social engineering attacks.
 
-  ---
+---
 
-  ## Conclusion
+## Conclusion
 
-  Today’s digital world relies heavily on network-connected devices and the sharing of digital data. As firms are becoming more reliant on using networked systems,
-  maintaining strong levels of security is very important. Enterprises use firewalls, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS),
-  Virtual Private Network (VPN) Gateways and Antivirus to create the safety and protection needed to secure an enterprise’s network and mitigate the risk of attacks
-  from hackers. Enterprises also utilize security services such as authentication, authorization, encryption and network monitoring to secure their data and communications.
+Today’s digital world relies heavily on network-connected devices and the sharing of digital data. As firms are becoming more reliant on using networked systems,
+maintaining strong levels of security is very important. Enterprises use firewalls, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS),
+Virtual Private Network (VPN) Gateways and Antivirus to create the safety and protection needed to secure an enterprise’s network and mitigate the risk of attacks
+from hackers. Enterprises also utilize security services such as authentication, authorization, encryption and network monitoring to secure their data and communications.
   
-  Ultimately, the use of these tools and services combined will provide a network with a strong and reliable infrastructure for protecting data and proprietary information,
-  ensuring data is accurate and maintaining continuity in business. With the appropriate tools and services in place, enterprises can decrease the chance of being attacked
-  by a hacker and help to develop a safer digital world.
+Ultimately, the use of these tools and services combined will provide a network with a strong and reliable infrastructure for protecting data and proprietary information,
+ensuring data is accurate and maintaining continuity in business. With the appropriate tools and services in place, enterprises can decrease the chance of being attacked
+by a hacker and help to develop a safer digital world.
 
-  ---
+---
 
-  ##Refrences:
+##Refrences:
 
-  1. Geeksforgeeks-https://www.geeksforgeeks.org/ethical-hacking/intrusion-prevention-system-ips/
-  2. Fortinet-https://share.google/Jx4MyzJEmxN37lSg8
-  3. slideshare-https://share.google/PbdP4oIKpQRQoLG6B
-  4. infotelesc-https://infotelesc.kpi.ua/article/view/119902
+1. Geeksforgeeks-https://www.geeksforgeeks.org/ethical-hacking/intrusion-prevention-system-ips/
+2. Fortinet-https://share.google/Jx4MyzJEmxN37lSg8
+3. slideshare-https://share.google/PbdP4oIKpQRQoLG6B
+4. infotelesc-https://infotelesc.kpi.ua/article/view/119902
 
-  ---
+---
 
 Author: Stuti Shah
 
