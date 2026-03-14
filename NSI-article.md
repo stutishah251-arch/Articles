@@ -145,7 +145,7 @@ Encrypt all sensitive information stored or transmitted electronically to preven
 6. Monitor Network:
 Constantly monitor your company's network activity by installing IDS or IPS on your network, to quickly identify suspicious activity.
 
-7.Access Control:
+7. Access Control:
 Only grant authorized access to sensitive resources to those who require them.
 
 8. Conduct Regular Security Audits:
