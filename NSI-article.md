@@ -124,14 +124,21 @@ To maintain a secure network environment, organizations must implement effective
 unauthorized access, data breaches, and malware infections. Prevention focuses on stopping attacks before they occur, while protection ensures that systems and data
 remain secure even if an attack is attempted.
 
--Use firewalls and intrusion detection/prevention systems to monitor and block unauthorized network access.
--Install and regularly update antivirus and anti-malware software to detect and remove malicious programs.
--Use strong passwords and multi-factor authentication (MFA) to prevent unauthorized user access.
--Encrypt sensitive data during storage and transmission to protect it from interception.
--Regularly update software and security patches to fix vulnerabilities in the system.
--Implement access control policies so that users only access the resources they need.
--Perform regular security audits and network monitoring to detect suspicious activities early.
--Train employees about cybersecurity awareness to avoid phishing and social engineering attacks.
+- Use firewalls and intrusion detection/prevention systems to monitor and block unauthorized network access.
+
+- Install and regularly update antivirus and anti-malware software to detect and remove malicious programs.
+
+- Use strong passwords and multi-factor authentication (MFA) to prevent unauthorized user access.
+
+- Encrypt sensitive data during storage and transmission to protect it from interception.
+
+- Regularly update software and security patches to fix vulnerabilities in the system.
+
+- Implement access control policies so that users only access the resources they need.
+
+- Perform regular security audits and network monitoring to detect suspicious activities early.
+
+- Train employees about cybersecurity awareness to avoid phishing and social engineering attacks.
 
 ---
 
