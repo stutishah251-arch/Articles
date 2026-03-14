@@ -93,28 +93,31 @@ A week or compromised network security system can lead to a variety of negative 
 security breaches can disrupt an organization's day-to-day operations, result is significant financial losses, and undermine trust in the organization. Below are examples
 of some of the major ways a network secutity system can negatively impact individuals, businesses, and governments.
 
-- Data Breaches and Loss of Confidential Information:
-  One of the most serious impacts of poor network security is the loss of sensitive data. Attackers may gain unauthorized access to confidential information such as personal
-  details, financial records, passwords, or company secrets. For businesses, this could include customer data, intellectual property, and strategic plans. Once this
-  information is stolen, it can be misused, sold on the dark web, or used for identity theft and fraud.
+1. Data Breaches and Confidential Information Loss:
+   Sensitive data loss is one of the most detrimental effects of inadequate network security. Attackers may obtain
+   unauthorized access to private data, including passwords, financial records, personal information, and business secrets. This could include strategic plans,
+   intellectual property, and customer data for businesses. Once stolen, this data may be misused, sold on the dark web, or utilized for fraud and identity theft.
 
-- Financial Losses:
-   Cybersecurity incidents often lead to significant financial losses. Organizations may lose money due to stolen funds, business disruption, recovery costs, and legal
-  penalties. Companies may also need to invest heavily in repairing systems, strengthening security measures, and compensating affected customers. In some cases, ransomware
-  attacks force organizations to pay large amounts of money to regain access to their systems.
+2. Financial Effect:
+    Most of the time, when a company experiences a cybersecurity breach, there is a loss of funds. Such losses can come from the theft of funds, interruption of
+   business, cost of recovery, and legal fees. Organizations may also incur additional costs associated with the repair of their systems or additional investments
+   necessary to improve their security measures, as well as provide reimbursement to any affected customers. Additionally, some organizations have been forced to
+   pay large amounts of money (from a ransom) to regain access to their systems after a ransomware attack.
 
-- Spread of Malware and System Damage:
-  Weak network security can allow malware such as viruses, worms, or ransomware to spread quickly across connected devices. This can corrupt files, damage software, and make
-  systems unusable. In severe cases, entire networks may need to be shut down and rebuilt, leading to major operational challenges.
+4. Malware Spread and Damage to Systems:
+    If a network does not have proper security in place, malware such as a virus, worm or ransomware can spread rapidly through any device connected to that
+   network. This type of malware can cause corruption of files, damage to software and/or make a system unusable. In very serious cases, the company may be forced
+   to completely shut down its network and rebuild it; this can create significant operational problems for the business.
 
- - Spread of Malware and System Damage:
-   Weak network security can allow malware such as viruses, worms, or ransomware to spread quickly across connected devices. This can corrupt files, damage software, and
-   make systems unusable. In severe cases, entire networks may need to be shut down and rebuilt, leading to major operational challenges.
-
-- Business and Operational Disruption:
-  Network attacks can disrupt normal business operations. If systems are infected with malware or targeted by denial-of-service attacks, employees may not be able to access
-  important resources or perform their tasks. This downtime can slow down production, delay services, and reduce overall productivity. For industries such as banking,
-  healthcare, or transportation, even a short disruption can cause major problems.
+5. Malware Spread and System Damage:
+   Malware, including viruses, worms, and ransomware, can spread swiftly among linked devices due to inadequate network security. This can harm software, corrupt
+   files, and render systems unusable. In extreme circumstances, it might be necessary to shut down and rebuild entire networks, which would present significant
+   operational difficulties.
+   
+6. Business and Operational Disruption:
+   Regular business operations may be interfered with by network attacks. Employees might not be able to access critical resources or carry out their duties if
+   systems are infected with malware or the target of denial-of-service attacks. Production can be slowed down, services can be delayed, and overall productivity
+   can be decreased due to this downtime. Even a brief disruption can have serious consequences for sectors like banking, healthcare, and transportation.
 
  ---
 
